@@ -1,3 +1,5 @@
+https://dev.azure.com/2kemo2sabe/BuildASPNETwithNET/_apis/build/status%2FM10vir.app-service-web-dotnet-get-started?branchName=main
+
 ---
 services: app-service\web,app-service
 platforms: dotnet
