@@ -1,6 +1,6 @@
-https://dev.azure.com/2kemo2sabe/BuildASPNETwithNET/_apis/build/status%2FM10vir.app-service-web-dotnet-get-started?branchName=main
-
 [![Build Status](https://dev.azure.com/2kemo2sabe/BuildASPNETwithNET/_apis/build/status%2FM10vir.app-service-web-dotnet-get-started?branchName=main)](https://dev.azure.com/2kemo2sabe/BuildASPNETwithNET/_build/latest?definitionId=15&branchName=main)
+
+
 
 
 ---
